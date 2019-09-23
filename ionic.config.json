@@ -1,5 +1,7 @@
 {
   "name": "academyLayout",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

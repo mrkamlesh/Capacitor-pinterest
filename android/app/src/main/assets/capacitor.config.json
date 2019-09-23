@@ -1,0 +1,7 @@
+{
+  "appId": "ionic.pintrest.com",
+  "appName": "Pinterest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
